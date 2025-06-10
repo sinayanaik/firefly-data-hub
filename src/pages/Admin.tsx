@@ -125,7 +125,7 @@ export default function Admin() {
             <TabsContent value="gallery" className="p-6 m-0">
               <GalleryManager />
             </TabsContent>
-            <TabsContent value="publications" className="p="6 m-0">
+            <TabsContent value="publications" className="p-6 m-0">
               <PublicationsManager />
             </TabsContent>
             <TabsContent value="talks" className="p-6 m-0">
